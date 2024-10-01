@@ -1,0 +1,35 @@
+<link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<style>
+body{background-color:#062629;color:#FFF;font-family:'Philosopher',sans-serif;margin:0;padding:0}
+h1,h2,h3,h4,h5,h6{font-style:italic;color:#DEC47E;margin:0;padding:10px 0}
+#banner h3,.text-uppercase.admin-editable.editable-text,#banner p,.admin-editable.editable-text{color:#DEC47E}
+p.subtitle,p.subheader{font-style:normal;color:#DEC47E;margin:0;padding:8px 0}
+p,span,li,a{font-style:normal;color:#FFF;margin:0;padding:5px 0}
+a[href^="/nashi-sotrudniki/"],.property-box .footer i,.property-box .footer span{color:#DEC47E}
+.flaticon-calendar,.flaticon-people{color:#DEC47E}
+.property-box{background-color:#265C5E;color:#FFF;border:none;box-shadow:none}
+.property-box .detail,.property-box .detail .visual,.property-box .facilities-list{background-color:#265C5E}
+.property-box .detail h2.title a,.property-box .detail .location a,.property-box .price-box span,.property-box .facilities-list li span,.property-box .facilities-list li,.property-box .detail .description{color:#FFF}
+.property-box a{color:#FFF}
+.property-box .footer{color:#DEC47E}
+.property-box .footer a,.property-box .footer span{color:#DEC47E}
+.property-box .footer i{color:#DEC47E}
+.inline-search-area .search-col .chosen-container .chosen-single{background-color:#FFF;color:#000}
+.inline-search-area .search-col .chosen-container .chosen-single span{color:#000}
+.inline-search-area .btn-search{background-color:#DEC47E;color:#000;border-color:#DEC47E}
+.chosen-container .chosen-drop{background-color:#FFF}
+.chosen-container .chosen-results li{color:#000}
+.chosen-container .chosen-results li.highlighted,.chosen-container .chosen-results li.active-result:hover{background-color:#DEC47E;color:#000}
+.services .main-title h2,.services .main-title p,.services .service-info h3,.services .service-info .visual{color:#DEC47E}
+.services.content-area{background-color:#062629}
+.services .service-info .visual{color:#FFF}
+.services .service-info{background-color:#265C5E;padding:20px;border-radius:5px}
+.our-team .team-2 .bg{background-color:transparent}
+.our-team .team-2 .detail{background-color:#265C5E;color:#FFF;padding:20px;border-radius:5px}
+.our-team .team-2 .detail h4 a{color:#DEC47E}
+.our-team .team-2 .detail h5,.our-team .team-2 .detail .contact ul li,.our-team .team-2 .detail .contact ul li a{color:#FFF}
+.sidebar-right .widget.advanced-search, .sidebar-right .widget.recent-properties, .sidebar-right .widget.posts-by-category {background-color: #FFF;color:#000;}
+.sidebar-right .widget.advanced-search h3.sidebar-title, .sidebar-right .widget.recent-properties h3.sidebar-title, .sidebar-right .widget.posts-by-category h3.sidebar-title {color:#000;}
+.chosen-container .chosen-single span, .chosen-container-single .chosen-single span {color:#000 !important;}
+.facilities-list, .facilities-list li {background-color: transparent;} /* Прозрачный фон для списка и элементов списка */
+</style>
